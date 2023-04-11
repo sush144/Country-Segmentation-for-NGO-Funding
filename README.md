@@ -3,4 +3,4 @@ HELP International is an international humanitarian NGO that is committed to fig
 
 After the recent funding programmes, they have been able to raise around $ 10 million. Now the CEO of the NGO needs to decide how to use this money strategically and effectively. The significant issues that come while making this decision are mostly related to choosing the countries that are in the direst need of aid. 
 
-And this is where you come I as a data analyst categorise the countries using some socio-economic and health factors that determine the overall development of the country. Then you I suggested the countries which the CEO needs to focus on the most.  The datasets containing those socio-economic factors and the corresponding data dictionary are provided below.
+And this is where I come in as a data analyst categorise the countries using some socio-economic and health factors that determine the overall development of the country. Then I suggested the countries which the CEO needs to focus on the most.  The datasets containing those socio-economic factors and the corresponding data dictionary are provided below.
